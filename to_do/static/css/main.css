@@ -1,5 +1,5 @@
 body{
-    background-color: #638CB8;
+    background-color: #222831;
 }
 
 input{
@@ -27,7 +27,7 @@ input::placeholder {
 }
 
 .item-row{
-    background-color: #906abd;
+    background-color: #30475e;
     margin: 10px;
     padding: 20px;
     border-radius: 3px;
